@@ -1,5 +1,5 @@
 {
-    "name": "superdweebie/common",
+    "name": "jhuet/sds-common",
     "description": "Library used by many of the other Sds libaries and modules",
     "type": "library",
     "keywords": [],
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.3"
     },
 
     "autoload": {
